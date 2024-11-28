@@ -14,22 +14,33 @@ Statistical analysis
 
 ## Key Features
 Utilizes data from LA Times Project, Department of Public Health, and FourSquare API
+
 Implements geospatial analysis using Folium and GeoPandas
+
 Explores correlations between neighborhood characteristics and health outcomes
+
 Visualizes results using choropleth maps and other data visualization techniques
 
 ## Technologies Used
 Python
+
 Pandas
+
 NumPy
+
 Folium
+
 BeautifulSoup
+
 Requests
+
 GeoPy
 
 ## Getting Started
 Clone this repository
+
 Install required dependencies: pip install -r requirements.txt
+
 Open and run the Jupyter notebook Capstone_BOTN_TomT.ipynb
 
 
