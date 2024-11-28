@@ -1,6 +1,4 @@
-# IBM Coursera Capstone Project
-# The Battle of the Neighborhoods
-# Los Angeles Neighborhood Health Analysis
+# IBM Coursera Capstone Project - Los Angeles Neighborhood Health Analysis
 
 This repository contains a data analysis project exploring the relationship between fast-food restaurants, fitness centers, and obesity rates in Los Angeles neighborhoods.
 
